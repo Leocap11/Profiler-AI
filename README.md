@@ -94,23 +94,17 @@ This will build the Docker images and launch the containers for the frontend, ba
 ## 📌 Project Status
 
 - ✅ React Frontend
-- ✅ Backend (Express / FastAPI or other)
+- ✅ Backend (NestJS)
 - ✅ Stable Diffusion API Integration
 - ✅ ADetailer Support
 - 🔜 Advanced Profiling Features
 
-## 🤝 Contributing
+## 🙏 Acknowledgements
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/YourFeature`
-3. Make your changes and commit: `git commit -am 'Add new feature'`
-4. Push the branch: `git push origin feature/YourFeature`
-5. Open a Pull Request
+- This project uses [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui), which is **not owned** by this repository or its authors.
+- All rights and credits for **Stable Diffusion WebUI** and **ADetailer** go to their respective creators and maintainers.
+- Special thanks to the open-source community for making such tools freely available and continuously maintained.
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
----
