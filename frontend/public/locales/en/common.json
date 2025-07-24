@@ -1,0 +1,19 @@
+{
+  "title": "AI IdentiKit Generator",
+  "description": "AI IdentiKit Generator is an app that creates a suspect's face based on a textual description. Using advanced AI, it transforms written details into realistic facial composites, assisting investigations or creative projects with quick and accurate visualizations.",
+   "button": {
+    "generate": "Generate",
+    "generation": "Generation in progress..."
+  },
+  "input": {
+    "description": "Describe the face of the suspect...(english only)"
+  },
+  "placeholder":{
+    "image": "Generated image will appear here"
+  },
+  "not-found":{
+    "title": "Page not found",
+    "description": "Unable to find a matching page",
+    "button": "Return to the previous page"
+  }
+}

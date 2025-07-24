@@ -1,0 +1,19 @@
+{
+  "title": "Generatore Identikit AI",
+  "description": "Il Generatore Identikit AI è un'app che crea il volto di un sospettato a partire da una descrizione testuale. Utilizzando un'IA avanzata, trasforma i dettagli scritti in composizioni facciali realistiche, supportando indagini o progetti creativi con visualizzazioni rapide e precise.",
+  "button": {
+    "generate": "Genera",
+    "generation": "Generazione in corso..."
+  },
+  "input": {
+    "description": "Descrivi il volto del sospettato...(solo in inglese)"
+  },
+  "placeholder": {
+    "image": "L'immagine generata apparirà qui"
+  },
+  "not-found":{
+    "title": "Pagina non trovata",
+    "description": "Non è stato possibile trovare una pagina corrispondente",
+    "button": "Torna alla pagina precedente"
+  }
+}

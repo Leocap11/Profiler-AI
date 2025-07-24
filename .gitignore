@@ -1,0 +1,22 @@
+# Node backend
+/backend/.vscode/
+/backend/dist/
+/backend/node_modules/
+/backend/package-lock.json
+/backend/.env
+
+# Frontend
+/frontend/node_modules/
+/frontend/package-lock.json
+/frontend/.vscode/
+/frontend/dist/
+/frontend/.env
+
+# Stable Diffusion WebUI
+/stable-diffusion-webui
+
+# Common
+.env
+.DS_Store
+*.log
+
